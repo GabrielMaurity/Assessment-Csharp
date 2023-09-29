@@ -1,0 +1,15 @@
+C:\Users\gabriel.maurity\source\repos\AssessmentC_\CarBusiness\bin\Debug\net6.0\CarBusiness.deps.json
+C:\Users\gabriel.maurity\source\repos\AssessmentC_\CarBusiness\bin\Debug\net6.0\CarBusiness.dll
+C:\Users\gabriel.maurity\source\repos\AssessmentC_\CarBusiness\bin\Debug\net6.0\CarBusiness.pdb
+C:\Users\gabriel.maurity\source\repos\AssessmentC_\CarBusiness\bin\Debug\net6.0\CarLibrary.dll
+C:\Users\gabriel.maurity\source\repos\AssessmentC_\CarBusiness\bin\Debug\net6.0\CarLibrary.pdb
+C:\Users\gabriel.maurity\source\repos\AssessmentC_\CarBusiness\obj\Debug\net6.0\CarBusiness.csproj.AssemblyReference.cache
+C:\Users\gabriel.maurity\source\repos\AssessmentC_\CarBusiness\obj\Debug\net6.0\CarBusiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.maurity\source\repos\AssessmentC_\CarBusiness\obj\Debug\net6.0\CarBusiness.AssemblyInfoInputs.cache
+C:\Users\gabriel.maurity\source\repos\AssessmentC_\CarBusiness\obj\Debug\net6.0\CarBusiness.AssemblyInfo.cs
+C:\Users\gabriel.maurity\source\repos\AssessmentC_\CarBusiness\obj\Debug\net6.0\CarBusiness.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.maurity\source\repos\AssessmentC_\CarBusiness\obj\Debug\net6.0\CarBusiness.csproj.CopyComplete
+C:\Users\gabriel.maurity\source\repos\AssessmentC_\CarBusiness\obj\Debug\net6.0\CarBusiness.dll
+C:\Users\gabriel.maurity\source\repos\AssessmentC_\CarBusiness\obj\Debug\net6.0\refint\CarBusiness.dll
+C:\Users\gabriel.maurity\source\repos\AssessmentC_\CarBusiness\obj\Debug\net6.0\CarBusiness.pdb
+C:\Users\gabriel.maurity\source\repos\AssessmentC_\CarBusiness\obj\Debug\net6.0\ref\CarBusiness.dll

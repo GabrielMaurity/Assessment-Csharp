@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CarBusiness/1.0.0": {
+        "dependencies": {
+          "CarLibrary": "1.0.0"
+        },
+        "runtime": {
+          "CarBusiness.dll": {}
+        }
+      },
+      "CarLibrary/1.0.0": {
+        "runtime": {
+          "CarLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CarBusiness/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CarLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

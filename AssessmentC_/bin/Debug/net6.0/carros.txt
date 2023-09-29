@@ -1,0 +1,10 @@
+23c2fafc-fa62-4e3b-b9b8-8f14da6e30dc,honda,civic,2000-12-09,45000
+23c2fafc-fa62-4e3b-b9b8-8f14da6e30dc,honda,civic,2000-12-09,45000
+23c2fafc-fa62-4e3b-b9b8-8f14da6e30dc,honda,civic,2000-12-09,45000
+23c2fafc-fa62-4e3b-b9b8-8f14da6e30dc,honda,civic,2000-12-09,45000
+ff66d8a6-c7bf-4416-afa5-b30815a3a680,chevorlet,onix,2000-12-08,45000
+23c2fafc-fa62-4e3b-b9b8-8f14da6e30dc,honda,civic,2000-12-09,45000
+23c2fafc-fa62-4e3b-b9b8-8f14da6e30dc,honda,civic,2000-12-09,45000
+23c2fafc-fa62-4e3b-b9b8-8f14da6e30dc,honda,civic,2000-12-09,45000
+23c2fafc-fa62-4e3b-b9b8-8f14da6e30dc,honda,civic,2000-12-09,45000
+ff66d8a6-c7bf-4416-afa5-b30815a3a680,chevorlet,onix,2000-12-08,45000

@@ -1,0 +1,12 @@
+C:\Users\gabriel.maurity\source\repos\AssessmentC_\CarLibrary\bin\Debug\net6.0\CarLibrary.deps.json
+C:\Users\gabriel.maurity\source\repos\AssessmentC_\CarLibrary\bin\Debug\net6.0\CarLibrary.dll
+C:\Users\gabriel.maurity\source\repos\AssessmentC_\CarLibrary\bin\Debug\net6.0\CarLibrary.pdb
+C:\Users\gabriel.maurity\source\repos\AssessmentC_\CarLibrary\obj\Debug\net6.0\CarLibrary.csproj.AssemblyReference.cache
+C:\Users\gabriel.maurity\source\repos\AssessmentC_\CarLibrary\obj\Debug\net6.0\CarLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.maurity\source\repos\AssessmentC_\CarLibrary\obj\Debug\net6.0\CarLibrary.AssemblyInfoInputs.cache
+C:\Users\gabriel.maurity\source\repos\AssessmentC_\CarLibrary\obj\Debug\net6.0\CarLibrary.AssemblyInfo.cs
+C:\Users\gabriel.maurity\source\repos\AssessmentC_\CarLibrary\obj\Debug\net6.0\CarLibrary.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.maurity\source\repos\AssessmentC_\CarLibrary\obj\Debug\net6.0\CarLibrary.dll
+C:\Users\gabriel.maurity\source\repos\AssessmentC_\CarLibrary\obj\Debug\net6.0\refint\CarLibrary.dll
+C:\Users\gabriel.maurity\source\repos\AssessmentC_\CarLibrary\obj\Debug\net6.0\CarLibrary.pdb
+C:\Users\gabriel.maurity\source\repos\AssessmentC_\CarLibrary\obj\Debug\net6.0\ref\CarLibrary.dll

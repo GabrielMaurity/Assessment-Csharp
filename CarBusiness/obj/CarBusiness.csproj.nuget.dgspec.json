@@ -1,0 +1,122 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\gabriel.maurity\\source\\repos\\AssessmentC_\\CarBusiness\\CarBusiness.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\gabriel.maurity\\source\\repos\\AssessmentC_\\CarBusiness\\CarBusiness.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gabriel.maurity\\source\\repos\\AssessmentC_\\CarBusiness\\CarBusiness.csproj",
+        "projectName": "CarBusiness",
+        "projectPath": "C:\\Users\\gabriel.maurity\\source\\repos\\AssessmentC_\\CarBusiness\\CarBusiness.csproj",
+        "packagesPath": "C:\\Users\\gabriel.maurity\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gabriel.maurity\\source\\repos\\AssessmentC_\\CarBusiness\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\gabriel.maurity\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\gabriel.maurity\\source\\repos\\AssessmentC_\\CarLibrary\\CarLibrary.csproj": {
+                "projectPath": "C:\\Users\\gabriel.maurity\\source\\repos\\AssessmentC_\\CarLibrary\\CarLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\gabriel.maurity\\source\\repos\\AssessmentC_\\CarLibrary\\CarLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gabriel.maurity\\source\\repos\\AssessmentC_\\CarLibrary\\CarLibrary.csproj",
+        "projectName": "CarLibrary",
+        "projectPath": "C:\\Users\\gabriel.maurity\\source\\repos\\AssessmentC_\\CarLibrary\\CarLibrary.csproj",
+        "packagesPath": "C:\\Users\\gabriel.maurity\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gabriel.maurity\\source\\repos\\AssessmentC_\\CarLibrary\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\gabriel.maurity\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

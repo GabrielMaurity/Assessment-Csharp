@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "AssessmentC_/1.0.0": {
+        "dependencies": {
+          "CarBusiness": "1.0.0",
+          "CarLibrary": "1.0.0"
+        },
+        "runtime": {
+          "AssessmentC_.dll": {}
+        }
+      },
+      "CarBusiness/1.0.0": {
+        "dependencies": {
+          "CarLibrary": "1.0.0"
+        },
+        "runtime": {
+          "CarBusiness.dll": {}
+        }
+      },
+      "CarLibrary/1.0.0": {
+        "runtime": {
+          "CarLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AssessmentC_/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CarBusiness/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CarLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
